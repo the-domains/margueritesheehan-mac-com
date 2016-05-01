@@ -1,0 +1,28 @@
+name: margueritesheehan@mac.com
+favicon: null
+layout_spectrum: 0.9519680116791278
+typography_spectrum: 0.06375695485621691
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.696423452347517
+  lightness: 0.31027200538665056
+  saturation: 0.1245460610371083
+  rhythmicContrast: 0.5818796185776591
+purpose: []
